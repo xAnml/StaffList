@@ -1,0 +1,6 @@
+name: StaffList
+main: net.anmlmc.StaffList.Main
+version: 1.0
+author: Anml
+commands:
+   staff:
